@@ -54,6 +54,7 @@
     <None Include="res\ControlINIFile.rc2">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="ControlINIFile.ini" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="res\ControlINIFile.ico">

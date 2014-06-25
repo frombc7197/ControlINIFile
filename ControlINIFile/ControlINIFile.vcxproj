@@ -119,6 +119,7 @@
     <ResourceCompile Include="ControlINIFile.rc" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ControlINIFile.ini" />
     <None Include="res\ControlINIFile.rc2" />
   </ItemGroup>
   <ItemGroup>

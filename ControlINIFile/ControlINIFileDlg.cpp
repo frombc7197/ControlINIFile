@@ -226,9 +226,9 @@ void CControlINIFileDlg::OnBnClickedButtonLoad()
 	szData3.Format(_T("%s"),szBUF);
 
 
-	m_edit1 = szData1.GetBuffer(); 
-	m_edit2 = szData2.GetBuffer(); 
-	m_edit3 = szData3.GetBuffer(); 
+	m_static1 = szData1.GetBuffer(); 
+	m_static2 = szData2.GetBuffer(); 
+	m_static3 = szData3.GetBuffer(); 
 
 	UpdateData(FALSE);
 }
